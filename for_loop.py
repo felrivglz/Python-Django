@@ -16,3 +16,6 @@ for price in prices :
     """
     total=total + price
     print ('Total is:', total)
+
+average= total/len(prices)
+print ('avg is', average)
