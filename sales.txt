@@ -1,0 +1,29 @@
+Report ventas febrero
+
+Cheerio 3.00
+Smashing 2.00
+Cheeky 1.00
+total is:6.00
+
+Cheerio 3.60
+Smashing 2.00
+Cheeky 1.00
+total is:6.60
+
+Smashing 2.40
+Cheeky 1.00
+total is:3.40
+
+Smashing 2.00
+Cheerio 3.00
+Cheeky 1.00
+total is:6.00
+
+Smashing 2.00
+Cheerio 3.60
+Cheeky 1.00
+total is:6.60
+
+Smashing 2.40
+Cheeky 1.00
+total is:3.40
